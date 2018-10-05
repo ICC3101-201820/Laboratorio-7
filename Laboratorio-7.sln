@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio-7", "Laboratorio-7.csproj", "{B92A2168-3218-40E2-A277-31C71D02DB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92A2168-3218-40E2-A277-31C71D02DB18}.Debug|x86.ActiveCfg = Debug|x86
+		{B92A2168-3218-40E2-A277-31C71D02DB18}.Debug|x86.Build.0 = Debug|x86
+		{B92A2168-3218-40E2-A277-31C71D02DB18}.Release|x86.ActiveCfg = Release|x86
+		{B92A2168-3218-40E2-A277-31C71D02DB18}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
